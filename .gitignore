@@ -1,3 +1,6 @@
 png
 svg
 files
+venv
+.DS_Store
+**/.DS_Store
